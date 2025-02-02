@@ -1,6 +1,8 @@
 # 💫 About Me:
 🚀 ¡Hola, soy ST Plice Carlos Jordan! 🚀<br><br>¡Saludos desde la terminal! 👋 Soy un apasionado programador originario de Venezuela, donde descubrí mi amor por la programación desde una edad temprana. Mi viaje en el mundo del desarrollo ha sido un emocionante trayecto de aprendizaje constante y superación de límites.<br><br>💡 En constante búsqueda de conocimiento, soy un joven programador con un apetito insaciable por desafíos técnicos y proyectos innovadores. Mi enfoque es exponencial: aprender hoy para superarme mañana.<br><br>🛠️ Mi caja de herramientas incluye Rust, Python, Julia, y siempre estoy emocionado por explorar nuevas tecnologías y metodologías. Mi objetivo es contribuir de manera significativa a proyectos inspiradores y colaborar con equipos apasionados.<br><br>🌐 ¡Hablemos de código, de proyectos emocionantes y de oportunidades para crecer juntos! Estoy ansioso por formar parte de iniciativas que no solo resuelvan problemas, sino que también generen impacto positivo en el mundo.<br><br>¡Vamos a construir algo genial juntos! 🚀
 
+Cuenta segundaria, escribeme para saber el principal. 
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/407205448027078657) [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/amasterhuginn) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/carlosjordan002) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?style=for-the-badge&logo=mastodon&logoColor=white)](https://mastodon.social/@EonKrypto) 
